@@ -5,8 +5,9 @@ SUMMARY:Reunión virtual Pueblo Renovado
 DTSTART:20251206T200000
 DTEND:20251206T213000
 RRULE:FREQ=WEEKLY;BYDAY=SA
-DESCRIPTION:bla bla bla bla
+DESCRIPTION:“(…) Yo he venido para que tengan vida, y para que la tengan en abundancia.” Juan 10:10 DHH
 LOCATION:https://us02web.zoom.us/j/2017742670
 UID:PR-zoom-semanal
 END:VEVENT
 END:VCALENDAR
+
